@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{E06E395D-BFF7-48DC-801F-965252DBB1BB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Anaprog/AnagramReader.cs">
     <Files>
-      <File FileName="Anaprog/AnagramReader.cs" Line="49" Column="42" />
-      <File FileName="Anaprog.test/AnagramTests.cs" Line="7" Column="19" />
+      <File FileName="Anaprog/AnagramReader.cs" Line="27" Column="28" />
+      <File FileName="Anaprog.test/AnagramTests.cs" Line="26" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

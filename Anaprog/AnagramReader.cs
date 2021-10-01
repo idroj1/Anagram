@@ -9,6 +9,11 @@ namespace Anaprog
 {
     public class AnagramReader
     {
+        private static void Main(string[] args)
+        {
+            AnagramMain();
+        }
+
         private static int SorterHash(string str)
         {
             char[] foo = str.ToArray();
@@ -16,7 +21,7 @@ namespace Anaprog
             return new string(foo).GetHashCode();
         }
 
-        private static void Main(string[] args)
+        private static void AnagramMain()
         {
             // palabra a buscar.
             string newWord;
@@ -27,7 +32,7 @@ namespace Anaprog
             cronometro.Start();
 
             // Lee el archivo txt a leer en la PC.
-            //StreamReader sr = new StreamReader (@"C:\jordi\desktop\Anagram\wordlist.txt");
+            //StreamReader sr = new StreamReader (@"C:/Users/jordi/Desktop/Anagram/wordlist.txt");
             StreamReader Lista = File.OpenText("wordlist.txt");
 
             // Lee palabras en el File.

@@ -15,15 +15,15 @@ namespace Anaprog.test
         {
         }
 
-        StreamReader Lista = File.OpenText("wordlist.txt");
+        //StreamReader Lista = File.OpenText("wordlist.txt");
+        //StreamReader sr = new StreamReader(@"C:/Users/jordi/Desktop/Anagram/wordlist.txt");
         /*
-        StreamReader sr = new StreamReader(@"C:\jordi\desktop\Anagram\wordlist.txt");
-
         [Test]
         public void TestN()
         {
-            string[] foo = new string[] {};
-            Assert.That(() => AnagramReader.Equals, Throws.ArgumentNullException);
+            StreamReader Lista = File.OpenText("wordlist.txt");
+            string newWord = null;
+            Assert.That(() => AnagramReader.newWord(), Throws.ArgumentNullException);
         }
         */
         
