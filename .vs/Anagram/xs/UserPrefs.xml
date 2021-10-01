@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E06E395D-BFF7-48DC-801F-965252DBB1BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Anaprog/AnagramReader.cs">
+    <Files>
+      <File FileName="Anaprog/AnagramReader.cs" Line="49" Column="42" />
+      <File FileName="Anaprog.test/AnagramTests.cs" Line="7" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Anagram" expanded="True">
+            <Node name="Anaprog" expanded="True">
+              <Node name="AnagramReader.cs" selected="True" />
+            </Node>
+            <Node name="Anaprog.test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Anaprog.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

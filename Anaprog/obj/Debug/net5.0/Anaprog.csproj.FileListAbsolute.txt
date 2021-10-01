@@ -1,0 +1,12 @@
+/Users/jordi/Desktop/Anagram/Anaprog/bin/Debug/net5.0/Anaprog.deps.json
+/Users/jordi/Desktop/Anagram/Anaprog/bin/Debug/net5.0/Anaprog.dll
+/Users/jordi/Desktop/Anagram/Anaprog/bin/Debug/net5.0/ref/Anaprog.dll
+/Users/jordi/Desktop/Anagram/Anaprog/bin/Debug/net5.0/Anaprog.pdb
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/Anaprog.csproj.AssemblyReference.cache
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/Anaprog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/Anaprog.AssemblyInfoInputs.cache
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/Anaprog.AssemblyInfo.cs
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/Anaprog.csproj.CoreCompileInputs.cache
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/Anaprog.dll
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/ref/Anaprog.dll
+/Users/jordi/Desktop/Anagram/Anaprog/obj/Debug/net5.0/Anaprog.pdb
